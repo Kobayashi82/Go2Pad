@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="/Suicide-Burn.png">
+  <img src="/Go2Pad.png">
 </div>
 
 # Suicide Burn
