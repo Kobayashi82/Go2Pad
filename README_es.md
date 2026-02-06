@@ -39,33 +39,31 @@
 
 ## 🔧 Instalacion
 
-1. Instala el mod kOS para Kerbal Space Program
-2. Instala el mod Trajectories
+1. Instala el mod `kOS` para Kerbal Space Program
+2. Instala el mod `Trajectories`
 3. Clona o descarga este repositorio
 4. Copia todos los archivos `.ks` a tu carpeta `Ships/Script` de KSP o cargalos en el procesador kOS de tu nave
 
 ## 🎮 Uso
 
-### Uso basico
-
 ```kerboscript
-run GoToPad.
+run go2pad.
 ```
 
 ### Elegir plataforma o coordenadas
 
 ```kerboscript
-run GoToPad("LaunchPad").
-run GoToPad("-0.097207, -74.557672").
+run go2pad("LaunchPad").
+run go2pad("-0.097207, -74.557672").
 ```
 
 ### Agregar plataformas personalizadas
 
 ```kerboscript
-run AddPad.
-run AddPad("Current").
-run AddPad("Target").
-run AddPad("MyPad", -0.097207, -74.557672).
+run addpad.
+run addpad("Current").
+run addpad("Target").
+run addpad("MyPad", -0.097207, -74.557672).
 ```
 
 ### Controles interactivos
@@ -92,12 +90,12 @@ cPads:Add("Kerbin").
 ## 📚 Solucion de problemas
 
 ### Trajectories no encontrado
-- Asegurate de que el mod Trajectories este instalado y activo
-- El script se cierra si Trajectories no esta disponible
+- Asegurate de que el mod `Trajectories` este instalado y activo
+- El script se cierra si `Trajectories` no esta disponible
 
 ### No aparecen plataformas
 - Aterriza mas cerca o reduce velocidad y altitud
-- Agrega una plataforma con `AddPad`
+- Agrega una plataforma con `addpad`
 
 ## 📄 Licencia
 
