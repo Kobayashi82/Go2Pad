@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="/Go2Pad.png">
+  <img src="/W_Go2Pad.png">
 </div>
 
 # Go2Pad
