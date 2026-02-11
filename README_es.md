@@ -14,6 +14,8 @@
   <img src="/W_Go2Pad.png">
 </div>
 
+Video: [https://youtu.be/T0fZpdypNPE](https://youtu.be/T0fZpdypNPE)
+
 # Go2Pad
 
 [README in English](README.md)
