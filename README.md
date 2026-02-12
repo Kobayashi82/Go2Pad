@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="/W_Go2Pad.png">
+  <img src="/images/W_Go2Pad.jpg">
 </div>
 
 Video: [https://youtu.be/T0fZpdypNPE](https://youtu.be/T0fZpdypNPE)
